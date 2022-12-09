@@ -1,7 +1,7 @@
 {
   "name": "search-name-domains",
   "version": "1.0.0",
-  "description": "",
+  "description": "Search all domains of a name",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
