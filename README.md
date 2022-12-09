@@ -42,4 +42,4 @@ npm start
 
 * After start te script, enter the name that you want to search domains
 * The domains that are on will be logged in the terminal
-> <img src="https://imgur.com/avgUnw1.jpeg">
+> <img src="https://imgur.com/A6iPp9V.jpeg">
