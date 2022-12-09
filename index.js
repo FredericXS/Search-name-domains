@@ -13,10 +13,11 @@ function searchDomains(name) {
     axios.get(`https://${name}.${extension}`)
       .then(() => {
           console.log(`https://${name}.${extension} is on!`.green);
-          // print domains that are on.
+          // log domains that are on.
       })
       .catch(() => { /* console.log(`https://${name}.${extension} is off!`.red) */ });
-      // print domains that are off.
+      // log domains that are off.
+      // by default, they will not logged
   });
 }
 
