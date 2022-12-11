@@ -15,7 +15,6 @@
 ## Install
 
 * Download and install [Node.js](https://nodejs.org/en)
-* Download and install [Visual Studio Code](https://code.visualstudio.com)
 * Open your terminal and clone the project to your PC:
 ```
 git clone https://github.com/FredericXS/Search-name-domains
@@ -40,6 +39,6 @@ npm start
 
 ### Running
 
-* After start te script, enter the name that you want to search domains
+* After start the script, enter the name that you want to search domains
 * The domains that are on will be logged in the terminal
 > <img src="https://imgur.com/A6iPp9V.jpeg">
